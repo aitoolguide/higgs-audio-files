@@ -1,6 +1,8 @@
-# Higgs Audio – Config & RAM TPS Updated Files
+# Higgs Audio – Updated TTS Script & Config File
 
-This repository contains two files required for running Higgs Audio with the settings shown in my YouTube tutorial.
+This repository contains two files required for running Higgs Audio exactly as shown in my YouTube tutorial.
+
+---
 
 ## 📂 Files in this Repository
 
@@ -10,15 +12,17 @@ This repository contains two files required for running Higgs Audio with the set
      examples/voice-log-box/
      ```
    - **Purpose:**  
-     This file contains the device configuration settings we used in the tutorial. It should replace or be added to the `examples/voice-log-box` folder inside your Higgs Audio installation.
+     This JSON file contains the audio reference configuration used by the **Voice Clone** section in the Gradio UI.  
+     It simply maps your saved audio files from the folder to the interface so you can quickly select them.
 
-2. **`ram-tps-updated`**
+2. **`run_tts_updated.py`**
    - **Path to place:**
      ```
      [Main Higgs Audio Project Root Folder]/
      ```
    - **Purpose:**  
-     Updated RAM TPS data for improved performance and stability. Place this file directly in the **main project folder** of your Higgs Audio installation.
+     This is the updated **TTS run script** with changes as shown in the tutorial.  
+     Replace the original file in your main project folder with this updated version.
 
 ---
 
@@ -26,7 +30,8 @@ This repository contains two files required for running Higgs Audio with the set
 
 1. **Download** both files from this repository.  
 2. **Paste** them into their respective paths as described above.  
-3. **Restart** your Higgs Audio project and test to ensure everything works as shown in the YouTube tutorial.
+3. **Restart** your Higgs Audio project.  
+4. You will now see the updated Voice Clone audio list in the UI, and the improved TTS script will be used when running Higgs Audio.
 
 ---
 
