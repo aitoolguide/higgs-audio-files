@@ -1,0 +1,66 @@
+{
+  "belinda": {
+    "transcript": "Twas the night before my birthday. Hooray! It's almost here! It may not be a holiday, but it's the best day of the year.",
+    "audio_file": "belinda.wav"
+  },
+  "broom_salesman": {
+    "transcript": "I would imagine so. A wand with a dragon heartstring core is capable of dazzling magic. And the bond between you and your wand should only grow stronger. Do not be surprised at your new wand's ability to perceive your intentions - particularly in a moment of need.",
+    "audio_file": "broom_salesman.wav"
+  },
+  "bigbang_amy": {
+    "transcript": "If that was slang, I'm unfamiliar with it. <SE>[Laughter]</SE> If it was literal, I share your aversion to soiled hosiery. <SE>[Laughter]</SE> In any case, I'm here because my mother and I have agreed that I will date at least once a year.''' ",
+    "audio_file": "bigbang_amy.wav"
+  },
+  "bigbang_sheldon": {
+    "transcript": "Hello, Amy Farrah Fowler. I'm sorry to inform you that you have been taken in by unsupportable mathematics designed to prey on the gullible and the lonely. Additionally, I'm being blackmailed with a hidden dirty sock. <SE>[Laughter]</SE>",
+    "audio_file": "bigbang_sheldon.wav"
+  },
+  "chadwick": {
+    "transcript": "Oh dear, who left all this junk lying around? Whoops, there it goes! Mind your pointed little pink head, starfish man.",
+    "audio_file": "chadwick.wav"
+  },
+  "en_man": {
+    "transcript": "Maintaining your ability to learn translates into increased marketability, improved career options and higher salaries.",
+    "audio_file": "en_man.wav"
+  },
+  "en_woman": {
+    "transcript": "The device would work during the day as well, if you took steps to either block direct sunlight or point it away from the sun.",
+    "audio_file": "en_woman.wav"
+  },
+  "fiftyshades_anna": {
+    "transcript": "I'm working at the hardware store till 7. I think I'd like that too. What?",
+    "audio_file": "fiftyshades_anna.wav"
+  },
+  "mabaoguo": {
+    "transcript": "",
+    "audio_file": "mabaoguo.wav"
+  },
+  "mabel": {
+    "transcript": "You do talk an awful lot about weather, did you know that? Sometimes I wonder if you're actually content to be a wizard or if you're secretly harbouring a desire to become a seer of the clouds.",
+    "audio_file": "mabel.wav"
+  },
+  "shrek_donkey": {
+    "transcript": "And I've got a great idea, I'll stick with you. You're a mean green fighting machine, together we'll scare the spit out of anybody that crosses us. \nOh, Wow, that was really scary. And if you don't mind me saying, if that don't work, your breath certainly will get the job done, 'cause you definitely need some Tic Tacs or something, 'cause your breath stinks!",
+    "audio_file": "shrek_donkey.wav"
+  },
+  "shrek_donkey_es": {
+    "transcript": "¡Uy, guau! Eso sí que asusta. Y si el rugido no funciona, tu mal aliento seguro los desmaya. Necesitas unas pastillitas de menta porque el hocico te apesta.",
+    "audio_file": "shrek_donkey_es.wav"
+  },
+  "shrek_fiona": {
+    "transcript": "Well, when one lives alone, one has to learn these things in case there's a... There's an arrow in your butt!\nCalm down. If you want to help Shrek, run into the woods and find me a blue flower with red thorns.",
+    "audio_file": "shrek_fiona.wav"
+  },
+  "shrek_shrek": {
+    "transcript": "Well, it's no wonder you don't have any friends. Listen, little donkey, take a look at me. What am I?\nNo! I'm an ogre! You know, with a torch and pitchfork. Doesn't that bother you?",
+    "audio_file": "shrek_shrek.wav"
+  },
+  "vex": {
+    "transcript": "Uhh, this is going to take forever. Why is everything so far?",
+    "audio_file": "vex.wav"
+  },
+  "zh_man_sichuan": {
+    "transcript": "",
+    "audio_file": "zh_man_sichuan.wav"
+  }
+}
