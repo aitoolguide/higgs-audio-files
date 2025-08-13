@@ -22,7 +22,7 @@ This repository contains two files required for running Higgs Audio exactly as s
      ```
    - **Purpose:**  
      This is the updated **TTS run script** with changes as shown in the tutorial.  
-     Replace the original file in your main project folder with this updated version.
+     Add/Replace the original file in your main project folder with this updated version.
 
 ---
 
